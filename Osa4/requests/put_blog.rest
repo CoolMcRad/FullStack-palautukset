@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/5e49dd8ffd9e9c18801cb661
+Content-Type: application/json
+
+{
+    "title": "OuJiaBeibi",
+    "author": "Kalja Keisari",
+    "url": "www.NannaaKakkaa.com",
+    "likes": 666
+}
