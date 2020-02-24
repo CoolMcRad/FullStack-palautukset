@@ -1,0 +1,11 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkthbGphIEtlaXNhcmkiLCJpZCI6IjVlNGE5ZmY2YTdlOWIzMzNkMDlkZmMyOSIsImlhdCI6MTU4MTk1MzY5NH0.Eqofx62DGY0oU-j4z8mz5om0bEetAoMgvM4LZ-bwSr0
+
+{
+    "title": "Ei jumalauta",
+    "author": "Kalja Keisari",
+    "url": "www.NannaaKakkaa.com",
+    "likes": 50,
+    "userId": "5e4a9ff6a7e9b333d09dfc29"
+}
