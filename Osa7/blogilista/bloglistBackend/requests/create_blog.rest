@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/blogs/5e5424ce4bd3794ab8b80b21/comments
+Content-Type: application/json
+
+{
+    "content": "Aika hyvä",
+    "blog": "5e5424ce4bd3794ab8b80b21"
+}

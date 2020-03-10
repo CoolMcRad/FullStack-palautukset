@@ -1,0 +1,15 @@
+{
+  "persons": [
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": 1
+    }
+  ],
+  "notes": [
+    {
+      "content": "Onko vai ei, no miksipäs ei",
+      "id": 1
+    }
+  ]
+}
